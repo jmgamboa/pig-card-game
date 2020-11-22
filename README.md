@@ -12,5 +12,5 @@ Run tests
 
 Run game
 
-```python test_pig```
+```python pig```
 
