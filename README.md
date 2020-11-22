@@ -1,4 +1,10 @@
-Author and Candidate: Joaqui Gamboa
+Python Support
+
+```3.x```
+
+Installation
+
+``` pip install - requirements.txt```
 
 Run tests
 
@@ -7,3 +13,4 @@ Run tests
 Run game
 
 ```python test_pig```
+
